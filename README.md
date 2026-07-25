@@ -18,7 +18,7 @@ A **Chrome Extension** that helps detect phishing websites using **Google Safe B
 
 ---
 
-## 🛠️ Installation  
+## 🛠️ Installation  .
 
 ### **Method 1: Load as Unpacked Extension**  
 1. **Download or Clone** this repository:  
