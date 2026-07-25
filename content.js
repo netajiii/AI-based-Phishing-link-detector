@@ -5,7 +5,7 @@
     const modelData = await response.json();
 
     class SimpleNeuralNet {
-        constructor(weights, bias) {
+        constructor(weights, bias) { 
             this.weights = weights;
             this.bias = bias;
         }
