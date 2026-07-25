@@ -15,7 +15,7 @@ function isValidURL(url) {
         return true;
     } catch (error) {
         return false;
-    }
+    } 
 }
 
 async function loadPhishTankData() {
