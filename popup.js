@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const resultText = document.getElementById("result");
 
     if (!checkButton) {
-        console.error("[ERROR] Button element not found!");
+        console.error("[ERROR] Button element not found!"); 
         return;
     }
 
