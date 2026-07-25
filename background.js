@@ -5,7 +5,7 @@ console.log("[INFO] Background script loaded and ready!");
 chrome.alarms.create("keepAlive", { periodInMinutes: 0.5 });
 chrome.alarms.onAlarm.addListener((alarm) => {
     if (alarm.name === "keepAlive") {
-        console.log("[INFO] Keeping service worker alive...");
+        console.log("[INFO] Keeping service worker alive..."); 
     }
 });
 
